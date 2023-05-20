@@ -1,6 +1,6 @@
 {
     "redirects": [
-      { "source": "", "destination": "/webs/main.html" },
-      { "source": "/login", "destination": "/webs/Login.html" }
+      { "source": "", "destination": "main.html" },
+      { "source": "/login", "destination": "Login.html" }
     ]
   }
